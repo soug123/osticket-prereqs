@@ -46,9 +46,8 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <br />
 <h3 align="center">Open your Remote Desktop Connection app on your computer and connect to your Virtual Machine that was created in Azure. </h3>
 <br />
-<p>
-![image](https://github.com/user-attachments/assets/ee43efce-612b-431c-97f7-10c37524418d)
 
+![image](https://github.com/user-attachments/assets/8dd89de7-00c4-47ac-9b2f-574a56fcc5a7)
 
 	
 
@@ -65,7 +64,10 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Once clicked, find the "Internet Information Services" expand it and then expand the "World Wide Web" tab. Afterward, expand the application Developer tab. Finally check the "CGI" button & press Ok. You will need CGI to download the PHP Manager. The PHP manager is a back-end web programming language that allows osTicket to run off a web browser.</h3>
 <br />
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/a6af9c35-e10c-4d7e-b2c8-30ffbe128f08" height="75%" width="100%"/>
+  
+	
+ ![image](https://github.com/user-attachments/assets/3c3eeb65-608e-4f3b-afb9-82dde0cbbd7d)
+
 </p>
 <br />
 <h3 align="center">Install PHP Manager</h3>
@@ -81,8 +83,10 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
 <h3 align="center">Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.</h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/28cf2dd0-d39e-45f8-a01b-61aec6657228"height="75%" width="100%"/>
-</p>
+  
+	
+ ![image](https://github.com/user-attachments/assets/9de59cfa-3d76-488c-ab87-cb4cacb5f8c9)
+
 <br/>
 <h3 align="center">CREATE DIRECTORY C:\PHP</h3>
 <br />
@@ -90,7 +94,10 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center"> Open File Explorer, type, "C:\" in the search bar, Right-click and create a new folder called, "PHP". Download php-7.3.8-nts-Win32-VC15-x86.zip from<a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> Files You Need to Download</a>, Extract it by going to where you download the file, Right-click the PHP 7.3.8 file and press extract to the PHP Folder you just created.
 </h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/18746085-a3cf-4f1f-b0d5-5cd73f969319"height="75%" width="100%"/>
+  
+	
+ ![image](https://github.com/user-attachments/assets/9ac9ba40-fbff-495c-a364-d3450fd741ff)
+
 </p>
 <br/>
 <h3 align="center">VC_REDIST DOWNLOAD</h3>
@@ -168,7 +175,10 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Enable: php_opcache.dll:
 </p>
 <p>
-	<img src="https://imgur.com/a/nrQo0kz" height="75%" width="100%"/>
+	
+	
+ ![PHP opcacha enable](https://github.com/user-attachments/assets/c02f9f8c-67c2-4c8d-a4d0-a753fdf560be)
+
 </p>
 <br />
 <br />
